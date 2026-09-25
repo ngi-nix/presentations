@@ -543,4 +543,15 @@ https://ngi.nixos.org/
 
 ## Thank you
 
-<img src="images/acknowledgments.png" width="800">
+<div style="display: flex; align-items: center; gap: 10px;">
+<div style="width: 700px;">
+<img src="images/acknowledgments-2.png">
+</div>
+
+<div style="text-align: left;">
+
+<img src="images/acknowledgments.png" width="400">
+
+</div>
+</div>
+
