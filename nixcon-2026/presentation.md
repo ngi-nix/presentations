@@ -25,7 +25,7 @@ Note:
 ### NGI (Next Generation Internet) program
 
 **Internet of Humans** - **trust**, **security**, and **inclusion** and
-other values and norms that we enjoy in Europe.
+other values and norms that we enjoy in Europe
 
 <img src="images/EC.svg" width="300">
 
@@ -38,7 +38,7 @@ Note:
 
 ### NGI Zero
 
-An **consortium** of not-for-profit organisations from across Europe.
+An **consortium** of not-for-profit organisations from across Europe
 
 <img src="images/ngi-zero.png" width="600">
 
@@ -48,7 +48,7 @@ https://www.ngi.eu/ngi-projects/ngi-zero/
 
 ### NLnet Foundation
 
-NGI Zero **consortium leader**.
+NGI Zero **consortium leader**
 
 1000+ funded free software projects (1800+ cascading grants)
 
@@ -60,7 +60,7 @@ https://nlnet.nl/
 
 ### NixOS Foundation
 
-NGI Zero **consortium member**.
+NGI Zero **consortium member**
 
 <img src="images/nixos-foundation.svg" width="250">
 
@@ -113,7 +113,7 @@ Note:
 
 <img src="images/distribute-packaging.png" width="500">
 
-**Attract upstream developers/contributors** and **distribute** the packaging and maintenance effort.
+**Attract upstream developers/contributors** and **distribute** the packaging and maintenance effort
 
 ---
 
@@ -386,7 +386,7 @@ Using NixOS modular services
 
 ---
 
-#### Run a service in bubblewrap
+#### Run a service in sandbox (bubblewrap)
 
 ```plaintext [1|3-13]
   nix run .#apps.offen.services.offen
@@ -527,7 +527,7 @@ Note:
 ## How to contribute
 
 * Matrix room
-* GitHub project board
+* NGI projects board
 
 https://nixos.org/community/teams/ngi/
 
