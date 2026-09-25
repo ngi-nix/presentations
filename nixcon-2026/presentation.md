@@ -533,14 +533,6 @@ https://nixos.org/community/teams/ngi/
 
 ---
 
-## Try yourself
-
-<img src="images/forge.svg" width="200">
-
-https://ngi.nixos.org/
-
----
-
 ## Thank you
 
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -555,3 +547,4 @@ https://ngi.nixos.org/
 </div>
 </div>
 
+https://ngi.nixos.org/
