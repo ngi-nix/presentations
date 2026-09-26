@@ -1,0 +1,16 @@
+.reveal pre {
+    width: 100%;
+    border-radius: 12px;
+    overflow: hidden;
+    max-height: none;
+}
+
+.reveal pre code {
+    max-height: none;
+    overflow: visible;
+}
+
+.reveal img {
+    border-radius: 12px;
+    overflow: hidden;
+}
