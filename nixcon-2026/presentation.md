@@ -13,9 +13,6 @@ NixCon 2026, Kraków, Poland
 Nix@NGI Team presented by Ivan Mincik (@imincik)
 </font>
 
-Note:
-* Ivan leading the team since Nov 2025 ?
-
 ---
 
 ## Intro
@@ -88,9 +85,6 @@ NixOS Foundation deliverables:
 
 https://nixos.org/community/teams/ngi/
 
-Note:
-* Impossible task
-
 ---
 
 ## Our Challenges
@@ -123,7 +117,6 @@ Note:
 
 Note:
 Forge development has started in Feb 2026
-Version: 0.2
 
 ---
 
@@ -137,15 +130,6 @@ Version: 0.2
 
 * **Gradually expose** users/contributors to the super-powers of Nix
 
-Notes:
-* Intuitive
-  - easy to run software
-  - packaging config makes sense to general software devs
-* Attractive
-  - rich software catalogue
-  - additional features for contributors
-
-
 ---
 
 ### Features
@@ -158,10 +142,6 @@ Notes:
 
   * Services: **container** and **NixOS**
 
-Note:
-* Packages: like Nixpkgs
-* Applications: like NixOS application modules
-
 ---
 
 <img src="images/contributor.svg" width="600">
@@ -169,7 +149,8 @@ Note:
 ### Building packages and applications
 
 Note:
-* Modules system for packaging (recipe files)
+* Module system for packaging (recipe files)
+* Using NixOS modular services
 
 ---
 
@@ -359,9 +340,6 @@ Note:
   };
 ```
 
-Note:
-Using NixOS modular services
-
 ---
 
 #### Test
@@ -417,9 +395,6 @@ Using NixOS modular services
 ![all-apps](images/all-apps.png)
 
 https://ngi.nixos.org/
-
-Note:
-TODO: update all screenshots
 
 ---
 
