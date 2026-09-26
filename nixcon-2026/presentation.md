@@ -38,7 +38,7 @@ Note:
 
 ### NGI Zero
 
-An **consortium** of not-for-profit organisations from across Europe
+A **consortium** of not-for-profit organisations from across Europe
 
 <img src="images/ngi-zero.png" width="600">
 
